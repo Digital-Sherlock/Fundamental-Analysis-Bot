@@ -12,7 +12,7 @@ The goal of this project is simplify fundamental analysis of a stock and bring e
 
 ## The Outcome
 
-Here's an example of how the endresult will look like.
+Here's an example of how the end result will look like. The screenshot below as a sample of an Income Statement of a stock with randomly generated financials. The final Excel file will contain three sheets: Income Statement, Balance Sheet, and Cash Flow Statement.
 ![image](https://github.com/Digital-Sherlock/Fundamental-Analysis-Bot/assets/66618495/60a69111-6879-40f4-9281-4170f094ec86)
 
 ## Details
