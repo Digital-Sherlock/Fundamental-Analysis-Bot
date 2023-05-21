@@ -14,3 +14,11 @@ The goal of this project is simplify fundamental analysis of a stock and bring e
 
 Here's an example of how the endresult will look like.
 ![image](https://github.com/Digital-Sherlock/Fundamental-Analysis-Bot/assets/66618495/60a69111-6879-40f4-9281-4170f094ec86)
+
+## Details
+
+The code and specifically the stock data is based on the financial IEX Cloud API. This particular project used Sandbox API endpoints.
+
+## Issues
+
+The main issue is a lack of some stock information that sandbox IEX Cloud API is limited on. To get a full and complete data one will have to switch to a paid version of IEX Cloud.
