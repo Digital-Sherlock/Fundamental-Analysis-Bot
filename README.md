@@ -1,4 +1,4 @@
-# Fundamental-Analysis-Bot
+# Fundamental-Analysis-Simplified
 
 ## The Problem Statement
 
