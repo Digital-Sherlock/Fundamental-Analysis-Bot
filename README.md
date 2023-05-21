@@ -13,3 +13,4 @@ The goal of this project is simplify fundamental analysis of a stock and bring e
 ## The Outcome
 
 Here's an example of how the endresult will look like.
+![image](https://github.com/Digital-Sherlock/Fundamental-Analysis-Bot/assets/66618495/60a69111-6879-40f4-9281-4170f094ec86)
