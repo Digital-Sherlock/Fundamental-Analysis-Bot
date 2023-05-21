@@ -22,3 +22,7 @@ The code and specifically the stock data is based on the financial IEX Cloud API
 ## Issues
 
 The main issue is a lack of some stock information that sandbox IEX Cloud API is limited on. To get a full and complete data one will have to switch to a paid version of IEX Cloud.
+
+## Code
+
+The code is organized in four sections. The naming convention of each piece aims to make it clear what part of the stock's fundamentals it covers. The Excel_Formatter brings all sections and creates an Excel file.
